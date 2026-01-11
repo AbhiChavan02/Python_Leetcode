@@ -1,6 +1,3 @@
-from turtle import reset
-
-
 class Solution:
     def isValid(self, s:str) -> bool:
         stack = []
