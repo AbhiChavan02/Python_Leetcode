@@ -33,3 +33,6 @@ if __name__ == "__main__":
     solution = Solution()
     result = solution.myAtoi(user_input)
     print("Converted Integer: ", result)
+
+
+    # 42 -> 42
