@@ -27,3 +27,5 @@ if __name__ == "__main__":
     result = solution.reverse(x)
 
     print("Reversed Integer: ", result)
+
+    # 321 -> 123
